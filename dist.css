@@ -2,6 +2,6 @@
 margin-left: 0.5em;
 }
 
-ul, ol {
-list-style-type: square;
-}
+#ul, ol {
+#list-style-type: square;
+#}
