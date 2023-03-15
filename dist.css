@@ -1,8 +1,7 @@
-.Lexical__listItem {
-  margin-left: 8px
-}
-
-
 .Lexical__ul {
   margin-left: 20px
+}
+
+ul, ol {
+list-style-type: square;
 }
