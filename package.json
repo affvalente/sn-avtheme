@@ -2,6 +2,14 @@
   "name": "sn-avtheme",
   "version": "1.0.1",
   "main": "dist.css",
+
+ "sn": {
+    "name": "AV tweaks",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "dist.css"
+  },
+
   "repository": {
     "type": "git",
     "url": "git://github.com/affvalente/sn-avtheme.git"
