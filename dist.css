@@ -1,7 +1,27 @@
 .Lexical__ul {
-  margin-left: 22px
+  padding-left: 10px
+}
+
+.Lexical__ol1 {
+  padding-left: 10px
+}
+
+.Lexical__ol2 {
+  padding-left: 10px
+}
+
+.Lexical__ol3 {
+  padding-left: 10px
+}
+
+.Lexical__ol4 {
+  padding-left: 10px
+}
+
+.Lexical__ol5 {
+  padding-left: 10px
 }
 
 ul {
-list-style-type: square;
+list-style-type: square
 }
