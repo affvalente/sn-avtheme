@@ -1,3 +1,4 @@
+
 .Lexical__ltr {
  padding-bottom: 3px
 }
@@ -31,7 +32,7 @@ ul {
 }
 
 .Collapsible__container {
-/* background: none; */
+ background: none;
  border: none;
 border-left: 5px solid var(--sn-stylekit-contrast-border-color);
 border-radius: 0px;
@@ -39,4 +40,9 @@ border-radius: 0px;
 
 .Collapsible__title {
       font-size: 22px;
+}
+
+.Lexical__quote {
+		margin-bottom: 5px;
+    margin-top: 5px;
 }
