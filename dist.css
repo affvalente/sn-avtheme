@@ -45,3 +45,8 @@ border-radius: 0px;
 		margin-bottom: 5px;
     margin-top: 5px;
 }
+
+.super-empty-line-placeholder {
+	visibility: hidden; 
+	display: none;
+}
