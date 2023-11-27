@@ -46,15 +46,6 @@ border-radius: 0px;
     margin-top: 5px;
 }
 
-.super-empty-line-placeholder {
-	visibility: hidden; 
-	display: none;
-}
-
-.Lexical__listItemUnchecked:before {
-	top: 5px;
-}
-
 .Lexical__listItemChecked:after {
 	top: 6px;
 }
