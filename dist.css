@@ -50,3 +50,11 @@ border-radius: 0px;
 	visibility: hidden; 
 	display: none;
 }
+
+.Lexical__listItemUnchecked:before {
+	top: 5px;
+}
+
+.Lexical__listItemChecked:after {
+	top: 6px;
+}
