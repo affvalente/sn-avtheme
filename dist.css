@@ -76,3 +76,9 @@ ul {
 #simple-markdown ol {
 	padding-left: 30px;
 }
+
+@media screen and (min-width: 768px) {
+.md\:overflow-y-hidden {
+    overflow-y: auto;
+}
+}
