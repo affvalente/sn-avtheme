@@ -1,0 +1,12 @@
+{
+        "identifier": "com.githubandre.sn-avtheme",
+        "name": "AV tweaks",
+        "content_type": "SN|Theme",
+        "area": "themes",
+        "version": "1.0.1",
+        "description": "Minor tweaks to default theme",
+        "url": "https://cdn.jsdelivr.net/gh/affvalente/sn-avtheme@master/dist.css",
+        "download_url": "https://github.com/affvalente/sn-avtheme/archive/refs/heads/main.zip",
+				"latest_url": "https://cdn.jsdelivr.net/gh/affvalente/sn-avtheme@master/ext.json",
+        "layerable": true
+}
